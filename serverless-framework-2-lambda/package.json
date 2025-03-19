@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "serverless-disable-functions": "^1.0.0",
+    "serverless-offline": "^14.4.0",
+    "serverless-s3-local": "^0.3.23"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.758.0",
+    "fast-csv": "^5.0.2"
+  }
+}
